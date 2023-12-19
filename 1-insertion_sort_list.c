@@ -2,7 +2,7 @@
 
 /**
  * insertion_sort_list - Sorts linked list
- * @list: Pointer to the pointer to the head of the list.
+ * @list: input Pointer.
  */
 
 void insertion_sort_list(listint_t **list)
